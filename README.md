@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/prasath9843/leetcode/tree/master/2491-smallest-even-multiple) |
+## String
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/prasath9843/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/prasath9843/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Counting
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/prasath9843/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
