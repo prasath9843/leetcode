@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/prasath9843/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/prasath9843/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/prasath9843/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3468-find-the-encrypted-string](https://github.com/prasath9843/leetcode/tree/master/3468-find-the-encrypted-string) |
 ## Greedy
 |  |
 | ------- |
