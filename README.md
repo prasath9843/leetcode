@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prasath9843/leetcode/tree/master/0001-two-sum) |
 | [0164-maximum-gap](https://github.com/prasath9843/leetcode/tree/master/0164-maximum-gap) |
+| [0792-binary-search](https://github.com/prasath9843/leetcode/tree/master/0792-binary-search) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasath9843/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prasath9843/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/prasath9843/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/prasath9843/leetcode/tree/master/0190-reverse-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/prasath9843/leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
