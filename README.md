@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/prasath9843/leetcode/tree/master/0062-unique-paths) |
 | [2491-smallest-even-multiple](https://github.com/prasath9843/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/prasath9843/leetcode/tree/master/2128-reverse-prefix-of-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/prasath9843/leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/prasath9843/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
