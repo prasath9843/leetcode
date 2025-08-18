@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/prasath9843/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prasath9843/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/prasath9843/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/prasath9843/leetcode/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prasath9843/leetcode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prasath9843/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/prasath9843/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/prasath9843/leetcode/tree/master/2507-number-of-common-factors) |
 ## String
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/prasath9843/leetcode/tree/master/0792-binary-search) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/prasath9843/leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
