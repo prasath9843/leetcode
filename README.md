@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/prasath9843/leetcode/tree/master/0792-binary-search) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasath9843/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prasath9843/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-string-matching-in-an-array](https://github.com/prasath9843/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/prasath9843/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/prasath9843/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prasath9843/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prasath9843/leetcode/tree/master/0067-add-binary) |
 | [1297-maximum-number-of-balloons](https://github.com/prasath9843/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/prasath9843/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1524-string-matching-in-an-array](https://github.com/prasath9843/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1797-goal-parser-interpretation](https://github.com/prasath9843/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1954-replace-all-digits-with-characters](https://github.com/prasath9843/leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/prasath9843/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/prasath9843/leetcode/tree/master/2507-number-of-common-factors) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/prasath9843/leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
