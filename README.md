@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/prasath9843/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/prasath9843/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/prasath9843/leetcode/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/prasath9843/leetcode/tree/master/0078-subsets) |
 | [0164-maximum-gap](https://github.com/prasath9843/leetcode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasath9843/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/prasath9843/leetcode/tree/master/0561-array-partition) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prasath9843/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/prasath9843/leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/prasath9843/leetcode/tree/master/0190-reverse-bits) |
 ## Binary Search
 |  |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasath9843/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/prasath9843/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prasath9843/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
