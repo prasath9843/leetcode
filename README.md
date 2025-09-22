@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prasath9843/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/prasath9843/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/prasath9843/leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/prasath9843/leetcode/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/prasath9843/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/prasath9843/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1372-check-if-it-is-a-good-array](https://github.com/prasath9843/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
