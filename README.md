@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/prasath9843/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/prasath9843/leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/prasath9843/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prasath9843/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prasath9843/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/prasath9843/leetcode/tree/master/0164-maximum-gap) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/prasath9843/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/prasath9843/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/prasath9843/leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prasath9843/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/prasath9843/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/prasath9843/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/prasath9843/leetcode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
 | [2722-prime-in-diagonal](https://github.com/prasath9843/leetcode/tree/master/2722-prime-in-diagonal) |
 ## Linked List
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prasath9843/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/prasath9843/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/prasath9843/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
 ## Geometry
 |  |
 | ------- |
@@ -263,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/prasath9843/leetcode/tree/master/0220-contains-duplicate-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
