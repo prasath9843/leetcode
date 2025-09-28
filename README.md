@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prasath9843/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prasath9843/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prasath9843/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/prasath9843/leetcode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasath9843/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/prasath9843/leetcode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prasath9843/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/prasath9843/leetcode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/prasath9843/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasath9843/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/prasath9843/leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/prasath9843/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/prasath9843/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prasath9843/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/prasath9843/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/prasath9843/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/prasath9843/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/prasath9843/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prasath9843/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/prasath9843/leetcode/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prasath9843/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/prasath9843/leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
@@ -274,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
