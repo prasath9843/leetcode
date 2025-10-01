@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/prasath9843/leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/prasath9843/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/prasath9843/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prasath9843/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/prasath9843/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prasath9843/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/prasath9843/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prasath9843/leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/prasath9843/leetcode/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prasath9843/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/prasath9843/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/prasath9843/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prasath9843/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/prasath9843/leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/prasath9843/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/prasath9843/leetcode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasath9843/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/prasath9843/leetcode/tree/master/0220-contains-duplicate-iii) |
