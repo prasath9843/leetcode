@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/prasath9843/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/prasath9843/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/prasath9843/leetcode/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/prasath9843/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/prasath9843/leetcode/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/prasath9843/leetcode/tree/master/1013-fibonacci-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prasath9843/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
+| [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prasath9843/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/prasath9843/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/prasath9843/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prasath9843/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prasath9843/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
 | [2128-reverse-prefix-of-word](https://github.com/prasath9843/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/prasath9843/leetcode/tree/master/0010-regular-expression-matching) |
+| [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/prasath9843/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
