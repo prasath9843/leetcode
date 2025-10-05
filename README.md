@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/prasath9843/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/prasath9843/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/prasath9843/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/prasath9843/leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/prasath9843/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prasath9843/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/prasath9843/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/prasath9843/leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prasath9843/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/prasath9843/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
