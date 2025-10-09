@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/prasath9843/leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/prasath9843/leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/prasath9843/leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/prasath9843/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/prasath9843/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/prasath9843/leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/prasath9843/leetcode/tree/master/0078-subsets) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/prasath9843/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/prasath9843/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/prasath9843/leetcode/tree/master/0258-add-digits) |
 ## Divide and Conquer
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/prasath9843/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/prasath9843/leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
 | [2722-prime-in-diagonal](https://github.com/prasath9843/leetcode/tree/master/2722-prime-in-diagonal) |
