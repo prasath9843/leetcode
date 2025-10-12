@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/prasath9843/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/prasath9843/leetcode/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/prasath9843/leetcode/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prasath9843/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/prasath9843/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/prasath9843/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/prasath9843/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/prasath9843/leetcode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/prasath9843/leetcode/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prasath9843/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/prasath9843/leetcode/tree/master/1013-fibonacci-number) |
 ## Combinatorics
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/prasath9843/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
