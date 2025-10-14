@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/prasath9843/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/prasath9843/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prasath9843/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0900-reordered-power-of-2](https://github.com/prasath9843/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasath9843/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/prasath9843/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prasath9843/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/prasath9843/leetcode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/prasath9843/leetcode/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prasath9843/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0900-reordered-power-of-2](https://github.com/prasath9843/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/prasath9843/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/prasath9843/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1372-check-if-it-is-a-good-array](https://github.com/prasath9843/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/prasath9843/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prasath9843/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0900-reordered-power-of-2](https://github.com/prasath9843/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasath9843/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/prasath9843/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/prasath9843/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prasath9843/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prasath9843/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/prasath9843/leetcode/tree/master/0561-array-partition) |
+| [0900-reordered-power-of-2](https://github.com/prasath9843/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/prasath9843/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/prasath9843/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/prasath9843/leetcode/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/prasath9843/leetcode/tree/master/0900-reordered-power-of-2) |
 | [2507-number-of-common-factors](https://github.com/prasath9843/leetcode/tree/master/2507-number-of-common-factors) |
 ## String Matching
 |  |
