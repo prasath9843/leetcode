@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/prasath9843/leetcode/tree/master/0112-path-sum) |
 ## Trie
 |  |
 | ------- |
@@ -337,5 +338,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/prasath9843/leetcode/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/prasath9843/leetcode/tree/master/0279-perfect-squares) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/prasath9843/leetcode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/prasath9843/leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
