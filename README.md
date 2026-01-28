@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/prasath9843/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/prasath9843/leetcode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/prasath9843/leetcode/tree/master/0792-binary-search) |
+| [0912-sort-an-array](https://github.com/prasath9843/leetcode/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/prasath9843/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prasath9843/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1372-check-if-it-is-a-good-array](https://github.com/prasath9843/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/prasath9843/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/prasath9843/leetcode/tree/master/0561-array-partition) |
 | [0900-reordered-power-of-2](https://github.com/prasath9843/leetcode/tree/master/0900-reordered-power-of-2) |
+| [0912-sort-an-array](https://github.com/prasath9843/leetcode/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/prasath9843/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/prasath9843/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
@@ -214,10 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/prasath9843/leetcode/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/prasath9843/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/prasath9843/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/prasath9843/leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/prasath9843/leetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/prasath9843/leetcode/tree/master/0912-sort-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/prasath9843/leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasath9843/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/prasath9843/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/prasath9843/leetcode/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/prasath9843/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1873-longest-nice-substring](https://github.com/prasath9843/leetcode/tree/master/1873-longest-nice-substring) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/prasath9843/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -286,16 +291,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/prasath9843/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasath9843/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/prasath9843/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/prasath9843/leetcode/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/prasath9843/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/prasath9843/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prasath9843/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/prasath9843/leetcode/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/prasath9843/leetcode/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/prasath9843/leetcode/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
 | ------- |
