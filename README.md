@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/prasath9843/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/prasath9843/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/prasath9843/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2094-finding-3-digit-even-numbers](https://github.com/prasath9843/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prasath9843/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/prasath9843/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2722-prime-in-diagonal](https://github.com/prasath9843/leetcode/tree/master/2722-prime-in-diagonal) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/prasath9843/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1873-longest-nice-substring](https://github.com/prasath9843/leetcode/tree/master/1873-longest-nice-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/prasath9843/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2094-finding-3-digit-even-numbers](https://github.com/prasath9843/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/prasath9843/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Math
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/prasath9843/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0912-sort-an-array](https://github.com/prasath9843/leetcode/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/prasath9843/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2094-finding-3-digit-even-numbers](https://github.com/prasath9843/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/prasath9843/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/prasath9843/leetcode/tree/master/0010-regular-expression-matching) |
 | [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/prasath9843/leetcode/tree/master/1013-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/prasath9843/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/prasath9843/leetcode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/prasath9843/leetcode/tree/master/0900-reordered-power-of-2) |
+| [2094-finding-3-digit-even-numbers](https://github.com/prasath9843/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/prasath9843/leetcode/tree/master/2507-number-of-common-factors) |
 ## String Matching
 |  |
