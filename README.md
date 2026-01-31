@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/prasath9843/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/prasath9843/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/prasath9843/leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/prasath9843/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/prasath9843/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/prasath9843/leetcode/tree/master/0088-merge-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/prasath9843/leetcode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prasath9843/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/prasath9843/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/prasath9843/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/prasath9843/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/prasath9843/leetcode/tree/master/0205-isomorphic-strings) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/prasath9843/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/prasath9843/leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/prasath9843/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
 | [2722-prime-in-diagonal](https://github.com/prasath9843/leetcode/tree/master/2722-prime-in-diagonal) |
 ## Linked List
