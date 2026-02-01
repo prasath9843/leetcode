@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/prasath9843/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/prasath9843/leetcode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/prasath9843/leetcode/tree/master/0279-perfect-squares) |
+| [0342-power-of-four](https://github.com/prasath9843/leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prasath9843/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0900-reordered-power-of-2](https://github.com/prasath9843/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/prasath9843/leetcode/tree/master/1013-fibonacci-number) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/prasath9843/leetcode/tree/master/0010-regular-expression-matching) |
 | [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
+| [0342-power-of-four](https://github.com/prasath9843/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/prasath9843/leetcode/tree/master/1013-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prasath9843/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Memoization
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prasath9843/leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/prasath9843/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/prasath9843/leetcode/tree/master/0190-reverse-bits) |
+| [0342-power-of-four](https://github.com/prasath9843/leetcode/tree/master/0342-power-of-four) |
 | [1873-longest-nice-substring](https://github.com/prasath9843/leetcode/tree/master/1873-longest-nice-substring) |
 ## Binary Search
 |  |
