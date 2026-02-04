@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/prasath9843/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/prasath9843/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1524-string-matching-in-an-array](https://github.com/prasath9843/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/prasath9843/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1797-goal-parser-interpretation](https://github.com/prasath9843/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1873-longest-nice-substring](https://github.com/prasath9843/leetcode/tree/master/1873-longest-nice-substring) |
 | [1954-replace-all-digits-with-characters](https://github.com/prasath9843/leetcode/tree/master/1954-replace-all-digits-with-characters) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/prasath9843/leetcode/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prasath9843/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/prasath9843/leetcode/tree/master/1013-fibonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/prasath9843/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Combinatorics
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/prasath9843/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/prasath9843/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Matrix
 |  |
 | ------- |
