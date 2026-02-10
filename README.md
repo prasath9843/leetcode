@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/prasath9843/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/prasath9843/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3468-find-the-encrypted-string](https://github.com/prasath9843/leetcode/tree/master/3468-find-the-encrypted-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prasath9843/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/prasath9843/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prasath9843/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/prasath9843/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prasath9843/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/prasath9843/leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prasath9843/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/prasath9843/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prasath9843/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
