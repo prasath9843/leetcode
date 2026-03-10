@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/prasath9843/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/prasath9843/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/prasath9843/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/prasath9843/leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/prasath9843/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prasath9843/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/prasath9843/leetcode/tree/master/0204-count-primes) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/prasath9843/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/prasath9843/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/prasath9843/leetcode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/prasath9843/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/prasath9843/leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/prasath9843/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/prasath9843/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/prasath9843/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/prasath9843/leetcode/tree/master/0089-gray-code) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prasath9843/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Geometry
 |  |
