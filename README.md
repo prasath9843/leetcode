@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/prasath9843/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/prasath9843/leetcode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/prasath9843/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/prasath9843/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/prasath9843/leetcode/tree/master/0792-binary-search) |
 | [0912-sort-an-array](https://github.com/prasath9843/leetcode/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/prasath9843/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/prasath9843/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prasath9843/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
+| [0739-daily-temperatures](https://github.com/prasath9843/leetcode/tree/master/0739-daily-temperatures) |
 | [2128-reverse-prefix-of-word](https://github.com/prasath9843/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
@@ -448,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prasath9843/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/prasath9843/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
