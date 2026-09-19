@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prasath9843/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasath9843/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prasath9843/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/prasath9843/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/prasath9843/leetcode/tree/master/0200-number-of-islands) |
 ## Trie
 |  |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prasath9843/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasath9843/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prasath9843/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/prasath9843/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/prasath9843/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prasath9843/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasath9843/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prasath9843/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/prasath9843/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/prasath9843/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Prefix Sum
 |  |
