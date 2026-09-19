@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prasath9843/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/prasath9843/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/prasath9843/leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/prasath9843/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/prasath9843/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prasath9843/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/prasath9843/leetcode/tree/master/0204-count-primes) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/prasath9843/leetcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/prasath9843/leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prasath9843/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/prasath9843/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/prasath9843/leetcode/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/prasath9843/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/prasath9843/leetcode/tree/master/0120-triangle) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prasath9843/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prasath9843/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/prasath9843/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prasath9843/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/prasath9843/leetcode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/prasath9843/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prasath9843/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prasath9843/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/prasath9843/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prasath9843/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/prasath9843/leetcode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/prasath9843/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/prasath9843/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/prasath9843/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prasath9843/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Monotonic Stack
 |  |
