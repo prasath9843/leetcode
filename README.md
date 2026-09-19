@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/prasath9843/leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prasath9843/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/prasath9843/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/prasath9843/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/prasath9843/leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/prasath9843/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/prasath9843/leetcode/tree/master/0049-group-anagrams) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/prasath9843/leetcode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prasath9843/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/prasath9843/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/prasath9843/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/prasath9843/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/prasath9843/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/prasath9843/leetcode/tree/master/0076-minimum-window-substring) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/prasath9843/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/prasath9843/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/prasath9843/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/prasath9843/leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/prasath9843/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prasath9843/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/prasath9843/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/prasath9843/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/prasath9843/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/prasath9843/leetcode/tree/master/0078-subsets) |
@@ -501,4 +505,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/prasath9843/leetcode/tree/master/0464-can-i-win) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prasath9843/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prasath9843/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
