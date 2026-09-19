@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prasath9843/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prasath9843/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prasath9843/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/prasath9843/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/prasath9843/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prasath9843/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/prasath9843/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prasath9843/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prasath9843/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/prasath9843/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/prasath9843/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prasath9843/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prasath9843/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/prasath9843/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/prasath9843/leetcode/tree/master/0739-daily-temperatures) |
 ## Game Theory
@@ -544,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/prasath9843/leetcode/tree/master/0037-sudoku-solver) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prasath9843/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
