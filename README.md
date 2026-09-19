@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/prasath9843/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prasath9843/leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prasath9843/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/prasath9843/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/prasath9843/leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/prasath9843/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/prasath9843/leetcode/tree/master/0049-group-anagrams) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasath9843/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/prasath9843/leetcode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prasath9843/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/prasath9843/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/prasath9843/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/prasath9843/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/prasath9843/leetcode/tree/master/0076-minimum-window-substring) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/prasath9843/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/prasath9843/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/prasath9843/leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/prasath9843/leetcode/tree/master/0073-set-matrix-zeroes) |
