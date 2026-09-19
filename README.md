@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/prasath9843/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prasath9843/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasath9843/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/prasath9843/leetcode/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/prasath9843/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/prasath9843/leetcode/tree/master/0205-isomorphic-strings) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/prasath9843/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/prasath9843/leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/prasath9843/leetcode/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/prasath9843/leetcode/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/prasath9843/leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/prasath9843/leetcode/tree/master/0179-largest-number) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/prasath9843/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/prasath9843/leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prasath9843/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0126-word-ladder-ii](https://github.com/prasath9843/leetcode/tree/master/0126-word-ladder-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prasath9843/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Geometry
 |  |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/prasath9843/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prasath9843/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasath9843/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0126-word-ladder-ii](https://github.com/prasath9843/leetcode/tree/master/0126-word-ladder-ii) |
 | [0200-number-of-islands](https://github.com/prasath9843/leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/prasath9843/leetcode/tree/master/0279-perfect-squares) |
 ## Tree
@@ -649,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prasath9843/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/prasath9843/leetcode/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
