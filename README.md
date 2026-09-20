@@ -741,4 +741,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/prasath9843/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/prasath9843/leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
