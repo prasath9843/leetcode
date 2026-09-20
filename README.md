@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/prasath9843/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/prasath9843/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/prasath9843/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/prasath9843/leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prasath9843/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/prasath9843/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/prasath9843/leetcode/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/prasath9843/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/prasath9843/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Matrix
@@ -766,16 +768,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prasath9843/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/prasath9843/leetcode/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prasath9843/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/prasath9843/leetcode/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prasath9843/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/prasath9843/leetcode/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prasath9843/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/prasath9843/leetcode/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/prasath9843/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
