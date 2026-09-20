@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/prasath9843/leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/prasath9843/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0233-number-of-digit-one](https://github.com/prasath9843/leetcode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/prasath9843/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/prasath9843/leetcode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/prasath9843/leetcode/tree/master/0279-perfect-squares) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prasath9843/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/prasath9843/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prasath9843/leetcode/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/prasath9843/leetcode/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/prasath9843/leetcode/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prasath9843/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0464-can-i-win](https://github.com/prasath9843/leetcode/tree/master/0464-can-i-win) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/prasath9843/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/prasath9843/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/prasath9843/leetcode/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/prasath9843/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/prasath9843/leetcode/tree/master/1013-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prasath9843/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
