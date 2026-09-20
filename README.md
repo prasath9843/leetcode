@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/prasath9843/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/prasath9843/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prasath9843/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/prasath9843/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/prasath9843/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/prasath9843/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prasath9843/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/prasath9843/leetcode/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/prasath9843/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/prasath9843/leetcode/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/prasath9843/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/prasath9843/leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prasath9843/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/prasath9843/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/prasath9843/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/prasath9843/leetcode/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/prasath9843/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/prasath9843/leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/prasath9843/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/prasath9843/leetcode/tree/master/0342-power-of-four) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasath9843/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prasath9843/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/prasath9843/leetcode/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/prasath9843/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0220-contains-duplicate-iii](https://github.com/prasath9843/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [1873-longest-nice-substring](https://github.com/prasath9843/leetcode/tree/master/1873-longest-nice-substring) |
 ## Quickselect
@@ -746,4 +750,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/prasath9843/leetcode/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/prasath9843/leetcode/tree/master/0184-department-highest-salary) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/prasath9843/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/prasath9843/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/prasath9843/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/prasath9843/leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
