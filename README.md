@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/prasath9843/leetcode/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/prasath9843/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/prasath9843/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0228-summary-ranges](https://github.com/prasath9843/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/prasath9843/leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/prasath9843/leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/prasath9843/leetcode/tree/master/0347-top-k-frequent-elements) |
