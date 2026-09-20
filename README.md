@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/prasath9843/leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/prasath9843/leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/prasath9843/leetcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/prasath9843/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/prasath9843/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/prasath9843/leetcode/tree/master/1013-fibonacci-number) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/prasath9843/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/prasath9843/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prasath9843/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/prasath9843/leetcode/tree/master/0206-reverse-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
