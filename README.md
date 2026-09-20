@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/prasath9843/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/prasath9843/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/prasath9843/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/prasath9843/leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/prasath9843/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/prasath9843/leetcode/tree/master/0149-max-points-on-a-line) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/prasath9843/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prasath9843/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/prasath9843/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/prasath9843/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/prasath9843/leetcode/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/prasath9843/leetcode/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/prasath9843/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
