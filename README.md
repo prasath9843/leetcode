@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/prasath9843/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/prasath9843/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prasath9843/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/prasath9843/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/prasath9843/leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/prasath9843/leetcode/tree/master/0258-add-digits) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/prasath9843/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/prasath9843/leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/prasath9843/leetcode/tree/master/0165-compare-version-numbers) |
+| [0171-excel-sheet-column-number](https://github.com/prasath9843/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/prasath9843/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/prasath9843/leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/prasath9843/leetcode/tree/master/0224-basic-calculator) |
